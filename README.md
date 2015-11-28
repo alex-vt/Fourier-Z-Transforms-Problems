@@ -1,4 +1,4 @@
-## DataPreparationExercises
+## Fourier-Z-Transforms-Problems
 
 Math: The Fourier transforms and Z-transform problems with solutions.
 
